@@ -1,0 +1,17 @@
+external.css
+<style>
+        body {
+  background-color: white;(230, 210, 173);
+}
+
+h1 {
+  color: red;
+  text-align: right: ;;
+}
+
+p { color: #b07c2d;
+  font-family: verdana;
+  font-size: 20px;
+}
+a{color:blue;}
+    </style>
